@@ -122,10 +122,6 @@ var Translations = {
                 {
                     "cardId": "8a53e08d",
                     "width": 20
-                },
-                {
-                    "cardId": "fbed4eb9",
-                    "width": 20
                 }
             ]
         },
