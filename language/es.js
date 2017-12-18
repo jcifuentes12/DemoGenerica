@@ -94,7 +94,7 @@ var Translations = {
             ]
         },
         {
-            "label": "Tu Opcion",
+            "label": "Tu Opción",
             "states": [
                 {
                     "cardId": "8a53e08d",
