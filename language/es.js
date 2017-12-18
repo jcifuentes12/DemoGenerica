@@ -83,25 +83,21 @@ var Translations = {
     /*
      * See en.js for details
      */
-    "ChapterSettings": [
+   "ChapterSettings": [
         {
             "label": "Introducción",
             "states": [
                 {
                     "cardId": "START",
-                    "width": 20
+                    "width": 60
                 }
             ]
         },
         {
-            "label": "Su Cuenta",
+            "label": "Tu Opcion",
             "states": [
                 {
-                    "cardId": "4ca807ee",
-                    "width": 20
-                },
-                {
-                    "cardId": "fd0d8f44",
+                    "cardId": "8a53e08d",
                     "width": 20
                 }
             ]
@@ -110,8 +106,8 @@ var Translations = {
             "label": "Gracias",
             "states": [
                 {
-                    "cardId": "75e4f764",
-                    "width": 40
+                    "cardId": "fbed4eb9",
+                    "width": 20
                 }
             ]
         }
