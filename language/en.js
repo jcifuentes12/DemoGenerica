@@ -133,7 +133,7 @@ var Translations = {
             "label": "Thank You",
             "states": [
                 {
-                    "cardId": "7b0123a5",
+                    "cardId": "fbed4eb9",
                     "width": 40
                 }
             ]
