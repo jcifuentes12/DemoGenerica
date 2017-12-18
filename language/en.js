@@ -117,14 +117,14 @@ var Translations = {
             ]
         },
         {
-            "label": "Your Account",
+            "label": "Your Option",
             "states": [
                 {
-                    "cardId": "77a834f0",
+                    "cardId": "8a53e08d",
                     "width": 20
                 },
                 {
-                    "cardId": "c23a68c9",
+                    "cardId": "fbed4eb9",
                     "width": 20
                 }
             ]
