@@ -34,9 +34,8 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": {
-            "card": "7b480c70",
+            "card": "9b35175c",
             "label": "Contacto",
-            "url":"http://ww3.bancochile.cl/wps/wcm/connect/nuestro-banco/portal/chile-abierto/ayuda-24-horas/contactos-por-email/sugerencias-y-reclamos",
             "icon": "contact"
         },
         "button2": {
