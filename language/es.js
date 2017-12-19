@@ -35,27 +35,32 @@ var Translations = {
     "CtaButtonSettings": {
         "button1": {
             "card": "7b480c70",
-            "label": "Botón 1",
+            "label": "Contacto",
+            "url":"http://ww3.bancochile.cl/wps/wcm/connect/nuestro-banco/portal/chile-abierto/ayuda-24-horas/contactos-por-email/sugerencias-y-reclamos",
             "icon": "contact"
         },
         "button2": {
+ 
             "card": "7b480c70",
-            "label": "Botón 2",
+            "label": "WebSite",
+            "url": "https://www.bancochile.cl",      
             "icon": "website"
         },
         "button3": {
             "card": "7b480c70",
-            "label": "Botón 3",
+            "label": "email",
+            "url": "mailto:jaime.rojel@xerox.com?subject=Demo Xerox",
             "icon": "email"
         },
         "button4": {
             "card": "7b480c70",
             "label": "Botón 4",
+            
             "icon": "save"
         },
         "button5": {
-            "url": "http://example.com/es",
-            "label": "Botón 5",
+            "label": "Compartir",
+            "url": "http://ww3.bancochile.cl/wps/wcm/connect/personas/portal/destacados/campana/invita-y-gana",
             "icon": "share"
         }
     },
