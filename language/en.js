@@ -45,7 +45,7 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": {
-            "card": "9b35175c",
+            "card": "ac450cb6",
             "label": "Contacto",
             "icon": "contact"
         },
