@@ -39,8 +39,6 @@ var Translations = {
             "icon": "contact"
         },
         "button2": {
- 
-            "card": "7b480c70",
             "label": "WebSite",
             "url": "https://www.bancochile.cl",      
             "icon": "website"
@@ -48,13 +46,11 @@ var Translations = {
         "button3": {
             "card": "7b480c70",
             "label": "email",
-            "url": "mailto:jaime.rojel@xerox.com?subject=Demo Xerox",
             "icon": "email"
         },
         "button4": {
-            "card": "7b480c70",
-            "label": "Botón 4",
-            
+            "card": "9b35175c",
+            "label": "HTML",
             "icon": "save"
         },
         "button5": {
