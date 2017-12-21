@@ -33,7 +33,7 @@ var Translations = {
      * See en.js for details
      */
     "CtaButtonSettings": {
-        "button1": {
+        "button1": { 
             "card": "ac450cb6",
             "label": "Contact",
             "icon": "contact"
