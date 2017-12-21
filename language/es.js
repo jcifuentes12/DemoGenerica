@@ -35,7 +35,7 @@ var Translations = {
     "CtaButtonSettings": {
         "button1": {
             "card": "ac450cb6",
-            "label": "Contacto",
+            "label": "Contact",
             "icon": "contact"
         },
         "button2": {
