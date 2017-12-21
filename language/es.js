@@ -75,7 +75,7 @@ var Translations = {
             "trackingName": "promo2",
             "url": "http://ww3.bancochile.cl/",
             "label": "Promo (Bottom)",
-            "desktopImage": "./images/promo2.png",
+            "desktopImage": "./images/promo3.png",
             "mobileImage": "./images/cel2.png"
         }
     },
