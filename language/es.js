@@ -34,7 +34,7 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": {
-            "card": "9b35175c",
+            "card": "ac450cb6",
             "label": "Contacto",
             "icon": "contact"
         },
@@ -44,8 +44,8 @@ var Translations = {
             "icon": "website"
         },
         "button3": {
-            "card": "7b480c70",
-            "label": "email",
+            "label": "Email",
+            "url": "mailto:jaime.rojel@xerox.com",
             "icon": "email"
         },
         "button4": {
