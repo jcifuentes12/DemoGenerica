@@ -45,32 +45,31 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": {
-            "card": "d1b4d742",
-            "label": "Contact",
+            "card": "9b35175c",
+            "label": "Contacto",
             "icon": "contact"
         },
         "button2": {
-            "card": "d1b4d742",
-            "label": "Website",
+            "label": "WebSite",
+            "url": "https://www.bancochile.cl",      
             "icon": "website"
         },
         "button3": {
-            "card": "d1b4d742",
-            "label": "Email",
+            "card": "7b480c70",
+            "label": "email",
             "icon": "email"
         },
         "button4": {
-            "card": "d1b4d742",
-            "label": "Save",
+            "card": "9b35175c",
+            "label": "HTML",
             "icon": "save"
         },
         "button5": {
-            "url": "http://example.com/",
             "label": "Share",
+            "url": "http://ww3.bancochile.cl/wps/wcm/connect/personas/portal/destacados/campana/invita-y-gana",
             "icon": "share"
         }
     },
-
     /**
      * Settings for the promo graphic sections. By default only 2 promo areas can be defined.
      * Each promo graphic requires the following:
@@ -106,30 +105,39 @@ var Translations = {
      *
      * All videos have an END state, this should not be defined here as it is an implicit construct.
      */
-    "ChapterSettings": [
+   "ChapterSettings": [
         {
             "label": "Introduction",
             "states": [
                 {
                     "cardId": "START",
-                    "width": 60
+                    "width": 40
                 }
             ]
         },
         {
-            "label": "Your Option",
+            "label": "Option",
             "states": [
                 {
-                    "cardId": "8a53e08d",
+                    "cardId": "3fc413e0",
                     "width": 20
                 }
             ]
         },
         {
-            "label": "Thank You",
+            "label": "APP",
             "states": [
                 {
-                    "cardId": "fbed4eb9",
+                    "cardId": "1ef48502",
+                    "width": 20
+                }
+            ]
+        },
+        {
+            "label": "Thanks",
+            "states": [
+                {
+                    "cardId": "2daefe44",
                     "width": 20
                 }
             ]
