@@ -93,7 +93,7 @@ var Translations = {
             "states": [
                 {
                     "cardId": "START",
-                    "width": 60
+                    "width": 40
                 }
             ]
         },
@@ -101,8 +101,17 @@ var Translations = {
             "label": "Tu Opción",
             "states": [
                 {
-                    "cardId": "8a53e08d",
-                    "width": 20
+                    "cardId": "3fc413e0",
+                    "width": 40
+                }
+            ]
+        },
+        {
+            "label": "APP",
+            "states": [
+                {
+                    "cardId": "1ef48502",
+                    "width": 40
                 }
             ]
         },
@@ -110,7 +119,7 @@ var Translations = {
             "label": "Gracias",
             "states": [
                 {
-                    "cardId": "fbed4eb9",
+                    "cardId": "2daefe44",
                     "width": 20
                 }
             ]
