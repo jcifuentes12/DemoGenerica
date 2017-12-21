@@ -44,8 +44,8 @@ var Translations = {
             "icon": "website"
         },
         "button3": {
+            "card": "ac450cb6",
             "label": "Email",
-            "url": "mailto:jaime.rojel@xerox.com",
             "icon": "email"
         },
         "button4": {
