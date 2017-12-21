@@ -68,15 +68,15 @@ var Translations = {
             "trackingName": "promo1",
             "url": "http://ww3.bancochile.cl/",
             "label": "Promo (Top)",
-            "desktopImage": "./images/promo_portrait.png",
-            "mobileImage": "./images/promo_landscape.png"
+            "desktopImage": "./images/promo1.png",
+            "mobileImage": "./images/cel1.png"
         },
         "promo2": {
             "trackingName": "promo2",
             "url": "http://ww3.bancochile.cl/",
             "label": "Promo (Bottom)",
-            "desktopImage": "./images/promo_portrait2.png",
-            "mobileImage": "./images/promo_landscape2.png"
+            "desktopImage": "./images/promo1.png",
+            "mobileImage": "./images/cel2.png"
         }
     },
 
