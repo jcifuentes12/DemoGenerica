@@ -45,17 +45,17 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": {
-            "card": "ac450cb6",
+            "card": "9b35175c",
             "label": "Contacto",
             "icon": "contact"
         },
         "button2": {
             "label": "WebSite",
-            "url": "https://www.bancochile.cl",      
+            "url": "https://www.consalud.cl",      
             "icon": "website"
         },
         "button3": {
-            "card": "ac450cb6",
+            "card": "9b35175c",
             "label": "Email",
             "icon": "email"
         },
@@ -66,7 +66,7 @@ var Translations = {
         },
         "button5": {
             "label": "Share",
-            "url": "http://ww3.bancochile.cl/wps/wcm/connect/personas/portal/destacados/campana/invita-y-gana",
+            "url": "https://www.consalud.cl",
             "icon": "share"
         }
     },
@@ -119,26 +119,18 @@ var Translations = {
             "label": "Option",
             "states": [
                 {
-                    "cardId": "3fc413e0",
-                    "width": 20
+                    "cardId": "8a53e08d",
+                    "width": 30
                 }
             ]
         },
-        {
-            "label": "APP",
-            "states": [
-                {
-                    "cardId": "1ef48502",
-                    "width": 20
-                }
-            ]
-        },
+        
         {
             "label": "Thanks",
             "states": [
                 {
-                    "cardId": "2daefe44",
-                    "width": 20
+                    "cardId": "fbed4eb9",
+                    "width": 30
                 }
             ]
         }
