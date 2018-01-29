@@ -98,26 +98,18 @@ var Translations = {
             "label": "Tu Opción",
             "states": [
                 {
-                    "cardId": "3fc413e0",
-                    "width": 20
+                    "cardId": "8a53e08d",
+                    "width": 30
                 }
             ]
         },
-        {
-            "label": "APP",
-            "states": [
-                {
-                    "cardId": "1ef48502",
-                    "width": 20
-                }
-            ]
-        },
+     
         {
             "label": "Gracias",
             "states": [
                 {
-                    "cardId": "2daefe44",
-                    "width": 20
+                    "cardId": "fbed4eb9",
+                    "width": 30
                 }
             ]
         }
