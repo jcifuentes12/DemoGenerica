@@ -34,17 +34,17 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": { 
-            "card": "ac450cb6",
+            "card": "9b35175c",
             "label": "Contact",
             "icon": "contact"
         },
         "button2": {
             "label": "WebSite",
-            "url": "https://www.bancochile.cl",      
+            "url": "https://www.consalud.cl",      
             "icon": "website"
         },
         "button3": {
-            "card": "ac450cb6",
+            "card": "9b35175c",
             "label": "Email",
             "icon": "email"
         },
@@ -55,7 +55,7 @@ var Translations = {
         },
         "button5": {
             "label": "Compartir",
-            "url": "http://ww3.bancochile.cl/wps/wcm/connect/personas/portal/destacados/campana/invita-y-gana",
+            "url": "https://www.consalud.cl",
             "icon": "share"
         }
     },
