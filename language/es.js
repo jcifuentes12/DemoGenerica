@@ -66,14 +66,14 @@ var Translations = {
     "PromoSettings": {
         "promo1": {
             "trackingName": "promo1",
-            "url": "http://ww3.bancochile.cl/",
+            "url": "http://www.consalud.cl/",
             "label": "Promo (Top)",
             "desktopImage": "./images/promo1.png",
             "mobileImage": "./images/cel1.png"
         },
         "promo2": {
             "trackingName": "promo2",
-            "url": "http://ww3.bancochile.cl/",
+            "url": "http://www.consalud.cl/",
             "label": "Promo (Bottom)",
             "desktopImage": "./images/promo3.png",
             "mobileImage": "./images/cel2.png"
