@@ -24,7 +24,7 @@ var Translations = {
 
     "PreparedForText": "Preparado para",
 
-    "CopyrightText": "Copyright 2017 Client Name",
+    "CopyrightText": "Copyright 2018 Xerox Chile",
     "PoweredByFooterText": "Powered by",
     "HelpFooterText": "Ayuda",
     "PrivacyPolicyFooterText": "Política de privacidad",
