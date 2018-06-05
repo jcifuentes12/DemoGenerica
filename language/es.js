@@ -68,15 +68,15 @@ var Translations = {
             "trackingName": "promo1",
             "url": "https://www.xerox.com/index/escl.html",
             "label": "Promo (Top)",
-            "desktopImage": "./images/promo1.png",
-            "mobileImage": "./images/promo_landscape.png"
+            "desktopImage": "./images/pic1.png",
+            "mobileImage": "./images/hor1.png"
         },
         "promo2": {
             "trackingName": "promo2",
             "url": "https://www.xerox.com/index/escl.html",
             "label": "Promo (Bottom)",
-            "desktopImage": "./images/promo1.png",
-            "mobileImage": "./images/promo_landscape.png"
+            "desktopImage": "./images/pic2.png",
+            "mobileImage": "./images/hor2.png"
         }
     },
 
