@@ -82,14 +82,14 @@ var Translations = {
     "PromoSettings": {
         "promo1": {
             "trackingName": "promo1",
-            "url": "http://www.consalud.cl/",
+            "url": "https://www.xerox.com/index/escl.html",
             "label": "Promo (Top)",
             "desktopImage": "./images/promo1.png",
             "mobileImage": "./images/cel1.png"
         },
         "promo2": {
             "trackingName": "promo2",
-            "url": "http://www.consalud.cl/",
+            "url": "https://www.xerox.com/index/escl.html",
             "label": "Promo (Bottom)",
             "desktopImage": "./images/promo3.png",
             "mobileImage": "./images/cel2.png"
