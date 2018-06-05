@@ -44,29 +44,29 @@ var Translations = {
      * "url" buttons will open the specified URL in a new window/tab when clicked
      */
     "CtaButtonSettings": {
-        "button1": {
-            "card": "9b35175c",
-            "label": "Contacto",
+        "button1": { 
+            "card": "9541ecc9",
+            "label": "Contact",
             "icon": "contact"
         },
         "button2": {
             "label": "WebSite",
-            "url": "https://www.consalud.cl",      
+            "url": "https://www.xerox.com/index/escl.html",      
             "icon": "website"
         },
         "button3": {
-            "card": "9b35175c",
+            "card": "9541ecc9",
             "label": "Email",
             "icon": "email"
         },
         "button4": {
-            "card": "9b35175c",
+            "card": "9541ecc9",
             "label": "HTML",
             "icon": "save"
         },
         "button5": {
-            "label": "Share",
-            "url": "https://www.consalud.cl",
+            "label": "Compartir",
+            "url": "https://www.xerox.com/index/escl.html",
             "icon": "share"
         }
     },
