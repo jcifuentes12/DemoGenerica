@@ -34,28 +34,28 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": { 
-            "card": "9b35175c",
+            "card": "9541ecc9",
             "label": "Contact",
             "icon": "contact"
         },
         "button2": {
             "label": "WebSite",
-            "url": "https://www.consalud.cl",      
+            "url": "https://www.xerox.com/index/escl.html",      
             "icon": "website"
         },
         "button3": {
-            "card": "9b35175c",
+            "card": "9541ecc9",
             "label": "Email",
             "icon": "email"
         },
         "button4": {
-            "card": "9b35175c",
+            "card": "9541ecc9",
             "label": "HTML",
             "icon": "save"
         },
         "button5": {
             "label": "Compartir",
-            "url": "https://www.consalud.cl",
+            "url": "https://www.xerox.com/index/escl.html",
             "icon": "share"
         }
     },
@@ -66,14 +66,14 @@ var Translations = {
     "PromoSettings": {
         "promo1": {
             "trackingName": "promo1",
-            "url": "http://www.consalud.cl/",
+            "url": "https://www.xerox.com/index/escl.html",
             "label": "Promo (Top)",
             "desktopImage": "./images/promo1.png",
             "mobileImage": "./images/cel1.png"
         },
         "promo2": {
             "trackingName": "promo2",
-            "url": "http://www.consalud.cl/",
+            "url": "https://www.xerox.com/index/escl.html",
             "label": "Promo (Bottom)",
             "desktopImage": "./images/promo3.png",
             "mobileImage": "./images/cel2.png"
